@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8824da49-27d6-b7a7-01fb-3715856a3573
 ---
@@ -71,7 +75,7 @@ Implicit Taxes and Clienteles
 {{< tdopen >}}
 Read: 5 (91-107)  
 Prep: E 1-3  
-Turn in Problem Set 1 ([PDF]({{< baseurl >}}/resources/problemset1))
+Turn in Problem Set 1 ({{% resource_link eb16af90-7d88-8b41-0396-002c911f490d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +115,7 @@ Non-Tax Costs
 {{< tdopen >}}
 Read 6  
 Prep: E 1, 3-4 TPP 1-2  
-Turn in Problem Set 2 ([PDF]({{< baseurl >}}/resources/problemset2))
+Turn in Problem Set 2 ({{% resource_link 1466d336-a828-8d71-8234-a227052cbe71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +168,7 @@ Corporate Formation
 {{< tdopen >}}
 Read: 8, 9 (skim)  
 Prep: Ch 8: E 5-6, TPP 4  
-Turn in Problem Set 3 ([PDF]({{< baseurl >}}/resources/problemset3))
+Turn in Problem Set 3 ({{% resource_link d6b40fad-2941-e2c5-9af3-ecf25ac0887f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +222,7 @@ International
 {{< tdopen >}}
 Read: 11  
 Prep: E 1, TPP 2  
-Turn in Problem Set 4 ([PDF]({{< baseurl >}}/resources/problemset4))
+Turn in Problem Set 4 ({{% resource_link f35663de-6ac5-fc71-f268-c4b4e2a24047 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
