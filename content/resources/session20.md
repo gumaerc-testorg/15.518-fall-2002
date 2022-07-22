@@ -5,6 +5,7 @@ file: /courses/15-518-taxes-and-business-strategy-fall-2002/39124280f21a5f610597
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: session20.pdf
 uid: 39124280-f21a-5f61-0597-7826da7320c7
 ---
 Session 20 - Tax-free Acquisitions
-

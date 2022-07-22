@@ -5,6 +5,7 @@ file: /courses/15-518-taxes-and-business-strategy-fall-2002/d6b40fad2941e2c59af3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: problemset3.pdf
 uid: d6b40fad-2941-e2c5-9af3-ecf25ac0887f
 ---
 Problem Set 3
-

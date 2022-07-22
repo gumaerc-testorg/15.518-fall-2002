@@ -5,6 +5,7 @@ file: /courses/15-518-taxes-and-business-strategy-fall-2002/86c4e99d82e14d06bc57
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: session14.pdf
 uid: 86c4e99d-82e1-4d06-bc57-bef9931b4b1a
 ---
 Session 14 - International Taxation
-

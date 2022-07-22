@@ -5,6 +5,7 @@ file: /courses/15-518-taxes-and-business-strategy-fall-2002/04dbda77414676a69878
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: session8.pdf
 uid: 04dbda77-4146-76a6-9878-55ee75d7a07c
 ---
 Session 8 - Marginal tax rates
-
