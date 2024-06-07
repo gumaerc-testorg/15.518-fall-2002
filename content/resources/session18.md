@@ -2,6 +2,7 @@
 content_type: resource
 description: Session 18 - Corporate Reorganizations
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/2a82a1cb4a4b564d202807f2108ecce9_session18.pdf
+file_size: 229126
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

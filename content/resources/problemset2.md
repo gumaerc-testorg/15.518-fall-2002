@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 2
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/1466d336a8288d718234a227052cbe71_problemset2.pdf
+file_size: 35667
 file_type: application/pdf
 learning_resource_types:
 - Assignments

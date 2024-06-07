@@ -2,6 +2,7 @@
 content_type: resource
 description: Session 11 - Corporate Formation
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/c7c299ad8c14a09c450cc591aa75568c_session11.pdf
+file_size: 639856
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

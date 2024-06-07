@@ -2,6 +2,7 @@
 content_type: resource
 description: Session 5 - Types of Organizational Forms
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/695653598ab2b4b559410702007f3ac6_session5.pdf
+file_size: 757505
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
