@@ -2,6 +2,7 @@
 content_type: resource
 description: Session 4
 file: /courses/15-518-taxes-and-business-strategy-fall-2002/bb0a42b8b72b32ac3ec00739697e604a_session4.pdf
+file_size: 251222
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
