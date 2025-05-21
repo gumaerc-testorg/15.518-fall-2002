@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Session 13 - Capital Structure
-file: /ol-ocw-studio-app/courses/15-518-taxes-and-business-strategy-fall-2002/f352b9a7e5a9c9da1083c94feef03826_session13.pdf
+file: /courses/15-518-taxes-and-business-strategy-fall-2002/f352b9a7e5a9c9da1083c94feef03826_session13.pdf
 file_size: 217540
 file_type: application/pdf
 learning_resource_types:

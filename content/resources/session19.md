@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Session 19 - Taxable Acquisitions
-file: /ol-ocw-studio-app/courses/15-518-taxes-and-business-strategy-fall-2002/81baeb93040806313c97dc351f9df424_session19.pdf
+file: /courses/15-518-taxes-and-business-strategy-fall-2002/81baeb93040806313c97dc351f9df424_session19.pdf
 file_size: 289306
 file_type: application/pdf
 learning_resource_types:
