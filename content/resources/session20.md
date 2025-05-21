@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Session 20 - Tax-free Acquisitions
-file: /ol-ocw-studio-app/courses/15-518-taxes-and-business-strategy-fall-2002/39124280f21a5f6105977826da7320c7_session20.pdf
+file: /courses/15-518-taxes-and-business-strategy-fall-2002/39124280f21a5f6105977826da7320c7_session20.pdf
 file_size: 397555
 file_type: application/pdf
 learning_resource_types:
