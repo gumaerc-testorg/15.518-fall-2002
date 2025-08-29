@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Objectives and Game Plan
-file: /courses/15-518-taxes-and-business-strategy-fall-2002/a23fc5e74e6025cf869b725c13b95d74_session1.pdf
+file: /ol-ocw-studio-app/courses/15-518-taxes-and-business-strategy-fall-2002/a23fc5e74e6025cf869b725c13b95d74_session1.pdf
 file_size: 322674
 file_type: application/pdf
 learning_resource_types:

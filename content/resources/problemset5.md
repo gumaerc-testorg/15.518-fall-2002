@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 5
-file: /courses/15-518-taxes-and-business-strategy-fall-2002/107dcd0089ef0fa36596fe07b429657d_problemset5.pdf
+file: /ol-ocw-studio-app/courses/15-518-taxes-and-business-strategy-fall-2002/107dcd0089ef0fa36596fe07b429657d_problemset5.pdf
 file_size: 55679
 file_type: application/pdf
 learning_resource_types:
